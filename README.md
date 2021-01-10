@@ -10,7 +10,7 @@
 <img src="https://github.com/keremceliker/Part2-PersistedNFSVolume-Openshift-Kubernetes/blob/main/PV_PVC_Advanced-Concept.png"> 
 
 
-Let's scratch and take a look as an example for PV and PVC !
+**Let's scratch and take a look as an example for PV and PVC !**
 
 However..Before start to pressing the gas pedal, I would like to make a few summary and easily-remembered explanations for PV and PVC. I didn't want to explain it in Part 1 :)
 
